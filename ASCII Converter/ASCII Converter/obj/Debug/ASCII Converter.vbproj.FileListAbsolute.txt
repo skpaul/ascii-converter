@@ -1,0 +1,41 @@
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\ASCII Converter\bin\Debug\ASCII Converter.exe
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\ASCII Converter\bin\Debug\ASCII Converter.pdb
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\ASCII Converter\bin\Debug\ASCII Converter.xml
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\ASCII Converter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\ASCII Converter\obj\Debug\ASCII_Converter.Resources.resources
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\ASCII Converter\obj\Debug\ASCII Converter.vbproj.GenerateResource.Cache
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\ASCII Converter\obj\Debug\ASCII Converter.exe
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\ASCII Converter\obj\Debug\ASCII Converter.xml
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\ASCII Converter\obj\Debug\ASCII Converter.pdb
+D:\Projects\ASCII Converter\ASCII Converter\obj\Debug\ASCII Converter.exe
+D:\Projects\ASCII Converter\ASCII Converter\obj\Debug\ASCII Converter.xml
+D:\Projects\ASCII Converter\ASCII Converter\obj\Debug\ASCII Converter.pdb
+D:\Projects\ASCII Converter\ASCII Converter\bin\Debug\ASCII Converter.exe
+D:\Projects\ASCII Converter\ASCII Converter\bin\Debug\ASCII Converter.pdb
+D:\Projects\ASCII Converter\ASCII Converter\bin\Debug\ASCII Converter.xml
+D:\Projects\ASCII Converter\ASCII Converter\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\ASCII Converter\ASCII Converter\obj\Debug\ASCII_Converter.Resources.resources
+D:\Projects\ASCII Converter\ASCII Converter\obj\Debug\ASCII Converter.vbproj.GenerateResource.Cache
+D:\Projects\ASCII Converter\ASCII Converter\obj\Debug\ASCII_Converter.Form1.resources
+F:\Softwares\Programming Tools\ASCII Converter\ASCII Converter\obj\Debug\ASCII Converter.xml
+F:\Softwares\Programming Tools\ASCII Converter\ASCII Converter\obj\Debug\ASCII Converter.pdb
+F:\Softwares\Programming Tools\ASCII Converter\ASCII Converter\obj\Debug\ResolveAssemblyReference.cache
+F:\Softwares\Programming Tools\ASCII Converter\ASCII Converter\obj\Debug\ASCII_Converter.Form1.resources
+F:\Softwares\Programming Tools\ASCII Converter\ASCII Converter\obj\Debug\ASCII Converter.vbproj.GenerateResource.Cache
+F:\Softwares\Programming Tools\ASCII Converter\ASCII Converter\bin\Debug\ASCII Converter.exe
+F:\Softwares\Programming Tools\ASCII Converter\ASCII Converter\bin\Debug\ASCII Converter.pdb
+F:\Softwares\Programming Tools\ASCII Converter\ASCII Converter\bin\Debug\ASCII Converter.xml
+F:\Softwares\Programming Tools\ASCII Converter\ASCII Converter\obj\Debug\ASCII_Converter.Resources.resources
+F:\Softwares\Programming Tools\ASCII Converter\ASCII Converter\obj\Debug\ASCII Converter.exe
+D:\ASCII Converter\ASCII Converter\obj\Debug\ASCII Converter.exe
+D:\ASCII Converter\ASCII Converter\obj\Debug\ASCII Converter.xml
+D:\ASCII Converter\ASCII Converter\obj\Debug\ASCII Converter.pdb
+D:\ASCII Converter\ASCII Converter\bin\Debug\ASCII Converter.exe.config
+D:\ASCII Converter\ASCII Converter\bin\Debug\ASCII Converter.exe
+D:\ASCII Converter\ASCII Converter\bin\Debug\ASCII Converter.pdb
+D:\ASCII Converter\ASCII Converter\bin\Debug\ASCII Converter.xml
+D:\ASCII Converter\ASCII Converter\obj\Debug\ASCII Converter.vbprojAssemblyReference.cache
+D:\ASCII Converter\ASCII Converter\obj\Debug\ASCII_Converter.Form1.resources
+D:\ASCII Converter\ASCII Converter\obj\Debug\ASCII_Converter.Resources.resources
+D:\ASCII Converter\ASCII Converter\obj\Debug\ASCII Converter.vbproj.GenerateResource.cache
+D:\ASCII Converter\ASCII Converter\obj\Debug\ASCII Converter.vbproj.CoreCompileInputs.cache
